@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Counter app</string>
+    <string name="btn_calculate_caption">Count</string>
+    <string name="char_selection">Characters</string>
+    <string name="word_selection">Words</string>
+    <string-array name="count_array">
+        <item>Characters</item>
+        <item>Words</item>
+    </string-array>
+</resources>
